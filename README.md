@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/harihar25013046" target="blank"><img src="https://img.shields.io/twitter/follow/harihar25013046?logo=twitter&style=for-the-badge" alt="harihar25013046" /></a> </p>
 
-- 🔭 I’m currently working on **FOOD-RECIPE-APP**
+- 🔭 I’m currently working on **React-projects**
 
 - 🌱 I’m currently learning **React Native**
 
